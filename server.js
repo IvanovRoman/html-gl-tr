@@ -8,7 +8,7 @@ const translate = require('./index')
 const html = require('./data')
 
 
-app.get('/', async (req, res) => {
+app.get('/page', async (req, res) => {
   if (!req.query.url) {
     res.send("Нет ссылки на страницу")
     res.end()
