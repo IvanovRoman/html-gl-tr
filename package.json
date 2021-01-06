@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "@frully/google-translate-open-api": "^1.4.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dom-serializer": "^0.2.1",
     "express": "^4.17.1",
     "htmlparser2": "^4.0.0"
